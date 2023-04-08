@@ -1,0 +1,60 @@
+.card{
+    margin: 0 auto;
+    margin-top: 50px;
+    backdrop-filter: blur(15px);
+    box-shadow: 0 0 17px #333;
+    border-radius: 0 0 20px 20px;
+}
+
+ul{
+    display: flex;
+}
+ul li{
+    list-style:none;
+    text-align:center;
+    padding: 0px 3px;
+}
+.num{
+    margin: 50px auto;
+    margin-top: 0;
+    font-size: 25px;
+    font-weight: 600;
+    color: red;
+    display: table;
+    text-align: center;
+}
+/* .number-title{
+    text-align:center;
+    font-size:15px;
+    color: #333333;
+    font-weight: bold;
+    height: 100px;
+    line-height: 100px;
+} */
+
+.card-body{
+    height: 180px;
+    
+}
+
+body{
+    background: url(../images/QQ图片20221230145953.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+ul{
+    padding: 0;
+    text-align: center;
+}
+
+li{
+    float: left;
+}
+
+h1{
+    margin-top: 10px;
+    color: #fcfafa;
+    text-align: center;
+}
